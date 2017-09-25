@@ -4,8 +4,8 @@ public class prog2_1
 
         // Write a program that displays your name, address, and telephone number
 
-        System.out.println("Name");
-        System.out.println("Address");
-        System.out.println("Phone Number");
+        System.out.println("Emelia Blankenship");
+        System.out.println("150 Azalea Dr");
+        System.out.println("860-40538-452787");
     }
 }

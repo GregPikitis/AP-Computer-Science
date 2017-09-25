@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Chapter2/.idea/vcs.xml
+*.xml
+Chapter2/.idea/workspace.xml
+Chapter2/out/production/Chapter2/prog2_1.class
