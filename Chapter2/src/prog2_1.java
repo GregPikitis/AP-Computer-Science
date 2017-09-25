@@ -7,7 +7,5 @@ public class prog2_1
         System.out.println("Name");
         System.out.println("Address");
         System.out.println("Phone Number");
-
-        hi
     }
 }
