@@ -11,12 +11,12 @@ public class proj4_4 {
         System.out.print("Enter a number greater than 0: ");
 
         int number = reader.nextInt();
-        int product = 1;
+        long product = 1;
         int count = 1;
 
         while (count <= number){
             product = product * count;
-            System.out.println(product);
+            System.out.println(product + " " + count + " " + number);
             count++;
         }
         System.out.println("The factorial of " + number + " is " + product);
